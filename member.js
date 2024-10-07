@@ -4,10 +4,3 @@ function skillsmember() {
     templateUrl: 'views/skills-member.html'
   };
 }
-
-function test () {
-  return {
-    restrict: 'E',
-    templateUrl: 'views/test.html'
-  };
-}
