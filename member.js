@@ -11,4 +11,3 @@ function test () {
     templateUrl: 'views/test.html'
   };
 }
-    }
